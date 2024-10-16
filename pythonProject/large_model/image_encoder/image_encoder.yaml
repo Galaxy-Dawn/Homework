@@ -1,0 +1,9 @@
+name: image_encoder
+defaults:
+  - _self_
+  - image_encoder: dinov2
+size: small
+
+#internvit 300M 6B
+#dinov2 small base large giant
+#siglip base large so400m

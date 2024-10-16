@@ -1,0 +1,4 @@
+name: internvit
+model_path:
+  300M: '/data/share/storage/checkpoint/image_encoder/InternViT/models--OpenGVLab--InternViT-300M-448px/snapshots/72a14eeccefe9bc61a3a29ae2548202decf13ad2'
+  6B: "/data/share/storage/checkpoint/image_encoder/InternViT/models--OpenGVLab--InternViT-6B-448px-V1-5/snapshots/e7669c30216196dccf0b6eeda7379dba00f2d4e9"
