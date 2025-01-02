@@ -1,0 +1,19 @@
+{
+    "Register": {
+        "ActivationCode": "123456",
+        "Email": "123456",
+        "RememberMe": true
+    },
+    "Update": {
+        "CheckUpdateAtStartUp": true
+    },
+    "MainWindow": {
+        "DpiScale": "Auto",
+        "Language": "Auto",
+        "MicaEnabled": true
+    },
+    "QFluentWidgets": {
+        "ThemeColor": "#ff28afe9",
+        "ThemeMode": "Auto"
+    }
+}
