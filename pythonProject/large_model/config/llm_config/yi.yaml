@@ -1,5 +1,0 @@
-name: yi
-model_path:
-  6B: '/data/share/storage/checkpoint/llm/Yi-1.5/models--01-ai--Yi-1.5-6B/snapshots/157a3d77ab5a8a8f079510eaa25169b547481f06'
-  9B: '/data/share/storage/checkpoint/llm/Yi-1.5/models--01-ai--Yi-1.5-9B/snapshots/80d5471b1eae28beae33e06eadbd4b48e74d4ce1'
-

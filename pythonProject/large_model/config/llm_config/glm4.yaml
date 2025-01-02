@@ -1,3 +1,0 @@
-name: glm4
-model_path:
-  9B: '/data/share/storage/checkpoint/llm/GLM4/models--THUDM--glm-4-9b/snapshots/fb328f2c433b39486fe26fe2fb707912f7856701'

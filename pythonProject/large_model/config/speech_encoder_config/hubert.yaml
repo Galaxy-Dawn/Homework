@@ -1,4 +1,0 @@
-name: hubert
-model_path:
-  base: '/data/share/storage/checkpoint/speech_encoder/HuBERT/models--TencentGameMate--chinese-hubert-base/snapshots/fce0375452b1dd6c080ac3248d423d4d037bc831'
-  large:  '/data/share/storage/checkpoint/speech_encoder/HuBERT/models--TencentGameMate--chinese-hubert-large/snapshots/90cb660492214f687e60f5ca509b20edae6e75bd'

@@ -1,6 +1,0 @@
-name: dinov2
-model_path:
-  small: '/data/share/storage/checkpoint/image_encoder/Dinov2/models--facebook--dinov2-small/snapshots/ed25f3a31f01632728cabb09d1542f84ab7b0056'
-  base:  '/data/share/storage/checkpoint/image_encoder/Dinov2/models--facebook--dinov2-base/snapshots/f9e44c814b77203eaa57a6bdbbd535f21ede1415'
-  large: '/data/share/storage/checkpoint/image_encoder/Dinov2/models--facebook--dinov2-large/snapshots/47b73eefe95e8d44ec3623f8890bd894b6ea2d6c'
-  giant: '/data/share/storage/checkpoint/image_encoder/Dinov2/models--facebook--dinov2-giant/snapshots/611a9d42f2335e0f921f1e313ad3c1b7178d206d'

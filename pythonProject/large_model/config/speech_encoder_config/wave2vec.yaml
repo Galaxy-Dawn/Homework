@@ -1,4 +1,0 @@
-name: wave2vec
-model_path:
-  base: '/data/share/storage/checkpoint/speech_encoder/wave2vec2.0/models--TencentGameMate--chinese-wav2vec2-base/snapshots/3991242c806928916fff4a8c0e4f76acf661b743'
-  large:  '/data/share/storage/checkpoint/speech_encoder/wave2vec2.0/models--TencentGameMate--chinese-wav2vec2-large/snapshots/6e3d224a0a7e42a0dc86a66e21a2c245dbb8dfed'
