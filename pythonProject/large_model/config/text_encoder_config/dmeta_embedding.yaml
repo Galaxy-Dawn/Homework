@@ -1,0 +1,2 @@
+name: dmeta_embedding
+model_path: '/data/share/storage/checkpoint/text_encoder/dmeta_embedding/models--DMetaSoul--Dmeta-embedding-zh/snapshots/14e49db1dad087ecf9dec26d4f3a378422962c7f'

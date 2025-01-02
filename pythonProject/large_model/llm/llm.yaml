@@ -1,4 +1,0 @@
-name: llm
-defaults:
-  - llm: qwen
-  - size: 0.5B

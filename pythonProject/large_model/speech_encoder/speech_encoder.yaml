@@ -1,8 +1,0 @@
-name: speech_encoder
-defaults:
-  - _self_
-  - speech_encoder: wave2vec
-size: base
-
-#wave2vec2.0 base large
-#hubert base large

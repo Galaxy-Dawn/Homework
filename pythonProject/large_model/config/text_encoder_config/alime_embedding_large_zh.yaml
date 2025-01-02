@@ -1,0 +1,2 @@
+name: alime_embedding_large_zh
+model_path: '/data/share/storage/checkpoint/text_encoder/alime_embedding_large_zh/models--Pristinenlp--alime-embedding-large-zh/snapshots/ff08b6aca3e40fc18dc5764eebc08aea0e5502d9'

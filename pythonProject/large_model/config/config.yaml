@@ -1,0 +1,62 @@
+name: config
+version: 1.2
+
+defaults:
+  - _self_
+  - image_encoder_config: dinov2
+  - speech_encoder_config: wave2vec
+  - text_encoder_config: conan_embedding_v1
+  - llm_config: deepseek
+
+# llm
+# qwen 0.5B 1.5B 3B 7B 14B
+# deepseek chat code
+# glm4 9B
+# yi 6B 9B
+
+# text
+# conan_embedding_v1 params=326M dim=1792
+# xiaobu_embedding_v2 params=326M dim=1792
+# gte_qwen2_7B_instruct params=7B dim=3584
+# zpoint_large_embedding_zh params=326M dim=1792
+# dmeta_embedding params=103M dim=768
+# xiaobu_embedding params=326M dim=1024
+# alime_embedding_large_zh params=326M dim=1024
+# gte_large_zh params=326M dim=1024
+
+example_image_path: '/root/neural_decoding/large_model/Lena.jpg'  #替换成你的图片路径
+example_audio_path: '/root/neural_decoding/large_model/water.wav'
+device: 'cuda:1'
+
+image_encoder_size: small
+# dinov2 small base large giant
+# siglip base large so400m
+# internvit 300M 6B
+
+speech_encoder_size: base
+# wave2vec base large
+# hubert base large
+
+llm:
+    size: chat
+    prompt_type: 'instruct'
+
+    min_tokens: 1
+    max_tokens: 64
+    repetition_penalty: 1.2
+    temperature: 0.5
+    top_p: 0.95
+
+    gpu_memory_utilization: 0.8
+    tensor_parallel_size: 1
+    CUDA_VISIBLE_DEVICES: '1'
+
+
+
+
+
+
+
+
+
+

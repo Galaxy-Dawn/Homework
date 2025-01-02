@@ -1,0 +1,2 @@
+name: gte_qwen2_7B_instruct
+model_path: '/data/share/storage/checkpoint/text_encoder/gte_qwen2_7B_instruct/models--Alibaba-NLP--gte-Qwen2-7B-instruct/snapshots/f47e3b5071bf9902456c6cbf9b48b59994689ac0'

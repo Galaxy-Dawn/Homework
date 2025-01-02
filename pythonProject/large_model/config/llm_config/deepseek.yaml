@@ -1,0 +1,4 @@
+name: deepseek
+model_path:
+  chat: '/data/share/storage/checkpoint/llm/DeepSeek/models--deepseek-ai--DeepSeek-V2-Lite/snapshots/604d5664dddd88a0433dbae533b7fe9472482de0'
+  code: '/data/share/storage/checkpoint/llm/DeepSeek/models--deepseek-ai--DeepSeek-Coder-V2-Lite-Base/snapshots/ea9b066cee82f82906fdd58898cb3788b1c5d770'
